@@ -45,6 +45,9 @@ input:focus{
     outline: none;
 
 }
+.fa-plus{
+    float: right;
+}
 
 li{
     background: #fff;
